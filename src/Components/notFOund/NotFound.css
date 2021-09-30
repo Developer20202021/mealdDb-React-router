@@ -1,0 +1,21 @@
+.notFoundPageContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.number{
+    font-size: 70px;
+    font-weight: 900;
+    color: #AEB1DA;
+    padding-bottom: 0;
+}
+.opps{
+font-size: 30px;
+font-weight: 700;
+}
+span{
+    padding-right: 30px;
+    font-size: 20px;
+}
